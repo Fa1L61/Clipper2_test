@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/VFeqLQif2IuWSUpiKiRzqsdNr3yvPzBndyvlct8Tvxs0eV74LkQM4cZyeqZ6MV4dFLqS4TqxWjPL6MquibfZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fa1l7\\source\\repos\\clipper_test\\clipper_test\\clipper_test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fa1l7\\.nuget\\packages\\clipper2\\1.2.2\\clipper2.1.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

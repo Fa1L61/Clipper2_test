@@ -1,0 +1,17 @@
+C:\Users\fa1l7\source\repos\clipper_test\clipper_test\bin\Debug\net6.0\clipper_test.exe
+C:\Users\fa1l7\source\repos\clipper_test\clipper_test\bin\Debug\net6.0\clipper_test.deps.json
+C:\Users\fa1l7\source\repos\clipper_test\clipper_test\bin\Debug\net6.0\clipper_test.runtimeconfig.json
+C:\Users\fa1l7\source\repos\clipper_test\clipper_test\bin\Debug\net6.0\clipper_test.dll
+C:\Users\fa1l7\source\repos\clipper_test\clipper_test\bin\Debug\net6.0\clipper_test.pdb
+C:\Users\fa1l7\source\repos\clipper_test\clipper_test\bin\Debug\net6.0\Clipper2Lib.dll
+C:\Users\fa1l7\source\repos\clipper_test\clipper_test\obj\Debug\net6.0\clipper_test.csproj.AssemblyReference.cache
+C:\Users\fa1l7\source\repos\clipper_test\clipper_test\obj\Debug\net6.0\clipper_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fa1l7\source\repos\clipper_test\clipper_test\obj\Debug\net6.0\clipper_test.AssemblyInfoInputs.cache
+C:\Users\fa1l7\source\repos\clipper_test\clipper_test\obj\Debug\net6.0\clipper_test.AssemblyInfo.cs
+C:\Users\fa1l7\source\repos\clipper_test\clipper_test\obj\Debug\net6.0\clipper_test.csproj.CoreCompileInputs.cache
+C:\Users\fa1l7\source\repos\clipper_test\clipper_test\obj\Debug\net6.0\clipper_test.csproj.CopyComplete
+C:\Users\fa1l7\source\repos\clipper_test\clipper_test\obj\Debug\net6.0\clipper_test.dll
+C:\Users\fa1l7\source\repos\clipper_test\clipper_test\obj\Debug\net6.0\refint\clipper_test.dll
+C:\Users\fa1l7\source\repos\clipper_test\clipper_test\obj\Debug\net6.0\clipper_test.pdb
+C:\Users\fa1l7\source\repos\clipper_test\clipper_test\obj\Debug\net6.0\clipper_test.genruntimeconfig.cache
+C:\Users\fa1l7\source\repos\clipper_test\clipper_test\obj\Debug\net6.0\ref\clipper_test.dll
